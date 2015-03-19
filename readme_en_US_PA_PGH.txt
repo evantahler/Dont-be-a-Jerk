@@ -4,7 +4,7 @@ Last Update: March 19, 2015
 This software is free and open source.
 
 - *I* am the software author. *I* might be a *we*, but that's OK.
-- *You* are the user of this software. *You* might also be a *we*, and that's also OK!
+- *You* are the user of this software. *You* might also be a *we* or *yinz*, and that's also OK!
 
 > This is free software.  I will never charge you to use, license, or obtain this software.  Doing so would make me a jag-off.
 
