@@ -1,5 +1,5 @@
 Don't Be a Jerk: The Open Source Software License.
-Last Update: April 12, 2012
+Last Update: March 19, 2015
 
 This software is free and open source.
 
@@ -15,7 +15,7 @@ This software is free and open source.
 
 > Speaking of bugs, I am not obligated to fix anything nor am I obligated to add a feature for you.  Feeling entitled about free software would make you a jerk.
 
-> If you add a cool feature or fix a bug, it would be nice if you passed it back to the project.  You don't have to, but not doing so would make you a jerk.   The repository/site you obtained this software from should contain a way for you to contact me.  Contributing to open source makes you awesome!
+> If you add a new feature or fix a bug, it would be nice if you contributed it back to the project.  You don't have to, but not doing so would make you a jerk.   The repository/site you obtained this software from should contain a way for you to contact me.  Contributing to open source makes you awesome!
 
 > If you use this software, you don't have to give me any credit, but it would be nice.
 
