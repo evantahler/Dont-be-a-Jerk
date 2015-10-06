@@ -1,0 +1,28 @@
+Não Seja um Idiota: A Licensa para Software Livre
+
+Última Atualização: 19 de Março de 2015
+Última Tradução: 05 de Outubro de 2015
+
+Este software é livre e aberto.
+
+- *Eu* sou o autor do software. *Eu* posso ser um *nós*, mas isto está OK.
+- *Você* é o usuário deste software. *Você* também pode ser um *nós*, e isto também está OK.
+
+> Este software é livre. Eu nunca vou te combrar para usar, licenciar, ou obter ester software. Fazendo isso eu estaria sendo um idiota.
+
+> Eu nunca vou desativar ou começar a cobrar pelo que está disponível hoje. Fazendo isso eu estaria sendo um idiota.
+
+> Você pode usar este código (e por "código" eu quero dizer *qualquer coisa* contida neste projeto) para o que você quiser. Uso pessoal, uso educacional, uso corporativo, uso militar, todos estão liberados! Limitar como você pode usar algo que é livre e gratuito faria de mim um idiota.
+
+> Eu não ofereço nenhum tipo de garantia. Eu tentei me assegurar de que não há nenhuma falha de segurança que automaticamente mande o número do seu cartão de crédito para aliens ou apague todos os dados no seu HD, mas isso pode acontecer. Sinto muito. No entanto, eu te avisei. Então você não pode me processar. Processar pessoas por software livre faria de você um idiota.
+
+> Se você achar bugs, seria legal me avisar para que eu possa consertá-los. Você não é obrigado a isso, mas não fazer isso faria de você um idiota.
+
+> Por falar de bugs, eu não sou obrigado a corrigir nada nem a adicionar funcionalidades por você. Se sentir no direito de exigir coisas de um software livre faria de você um idiota.
+
+> Se você adicionar uma nova funcionalidade ou corrigir um bug, seria legal contribuir com o projeto. Você não é obrigado a isso, mas não fazer isso o tornaria um idiota. O repositório/site de onde você conseguiu esse software deve conter uma forma para você entrar em contato comigo. Contribuir com open source faz de você fantástico!
+
+> Se você usa esse software, você não tem que me dar crédito, mas seria legal.
+
+Não seja um idiota.
+Aproveite seu software livre!
