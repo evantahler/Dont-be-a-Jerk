@@ -1,0 +1,29 @@
+Ne Soyez Pas Con: La licence logiciel libre
+
+Dernière mise à jour: 19 mars 2015
+Dernière traduction: 25 décembre 2016
+
+Ce logiciel est libre et open source
+
+- *Je* suis l'auteur du logiciel. *Je* peux désigner *nous*, peu importe.
+- *Vous* êtes les utilisateurs de ce logiciel. *Vous* peut aussi désigner
+ *nous*, peu importe également !
+
+> Ceci est un logiciel libre. Je ne vous facturerai jamais l'utilisation, la licence ou l'obtention de ce logiciel. Le faire ferait de moi un con.
+
+> Je ne supprimerai ou monétiserai jamais ce qui est disponible aujourd'hui. Le faire ferait de moi un con.
+
+> Vous pouvez utiliser ce code (et par "code" je veux dire *n'importe quoi* contenu dans ce projet) pour tout ce que vous voulez. Utilisation personnelle, pédagogique, professionnelle, militaire, et toutes autres utilisations sont possibles ! Limiter la façon dont vous pouvez utiliser quelque chose de libre me ferait de moi un con.
+
+> Je n'offrirai jamais aucune garantie sur quoi que ce soit. J'ai essayé de faire en sorte qu'il n'y ait pas de faille de sécurité où l'utilisation de ce logiciel qui pourrait automatiquement envoyer les informations de votre carte de crédit à des extraterrestres ou effacer tout votre disque dur, mais cela pourrait arriver. Je suis désolé. Cependant, je vous ai prévenu, donc vous ne pouvez pas me poursuivre. Intenter des actions en justice à cause d'un logiciel libre ferait de vous un con.
+
+> Si vous trouvez des bugs, ce serait bien de me le faire savoir afin que je puisse les corriger. Vous n'êtes pas obligé, mais ne pas le faire ferait de vous un con.
+
+> En parlant de bugs, je ne suis pas obligé de corriger quoi que ce soit ni ne suis obligé à ajouter des fonctionnalités pour vous. Pensez pouvoir l'imposer à un logiciel libre ferait de vous un con.
+
+> Si vous ajoutez une nouvelle fonctionnalité ou corrigez un bug, ce serait bien que vous contribuiez au projet. Vous n'avez pas à le faire, mais ne pas le faire ferait de vous un con. Le dépôt/site d'où vous avez obtenu ce logiciel doit contenir un moyen pour vous de me contacter. Contribuer à l'open source fait de vous quelqu'un de formidable !
+
+> Si vous utilisez ce logiciel vous n'avez pas à me mentionner, mais se serait gentil.
+
+Ne soyez pas con.
+Profitez de votre logiciel libre !
