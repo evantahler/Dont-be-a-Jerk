@@ -15,15 +15,15 @@ Ce logiciel est libre et open source
 
 > Vous pouvez utiliser ce code (et par "code" je veux dire *n'importe quoi* contenu dans ce projet) pour tout ce que vous voulez. Utilisation personnelle, pédagogique, professionnelle, militaire, et toutes autres utilisations sont possibles ! Limiter la façon dont vous pouvez utiliser quelque chose de libre me ferait de moi un con.
 
-> Je n'offrirai jamais aucune garantie sur quoi que ce soit. J'ai essayé de faire en sorte qu'il n'y ait pas de faille de sécurité où l'utilisation de ce logiciel qui pourrait automatiquement envoyer les informations de votre carte de crédit à des extraterrestres ou effacer tout votre disque dur, mais cela pourrait arriver. Je suis désolé. Cependant, je vous ai prévenu, donc vous ne pouvez pas me poursuivre. Intenter des actions en justice à cause d'un logiciel libre ferait de vous un con.
+> Je n'offrirai jamais aucune garantie sur quoi que ce soit. J'ai essayé de faire en sorte qu'il n'y ait pas de faille de sécurité dont l'utilisation de ce logiciel pourrait automatiquement envoyer les informations de votre carte de crédit à des extraterrestres ou effacer tout votre disque dur, mais cela pourrait arriver. Je suis désolé. Cependant, je vous avais prévenu, donc vous ne pouvez pas me poursuivre. Intenter des actions en justice à cause d'un logiciel libre ferait de vous un con.
 
 > Si vous trouvez des bugs, ce serait bien de me le faire savoir afin que je puisse les corriger. Vous n'êtes pas obligé, mais ne pas le faire ferait de vous un con.
 
-> En parlant de bugs, je ne suis pas obligé de corriger quoi que ce soit ni ne suis obligé à ajouter des fonctionnalités pour vous. Pensez pouvoir l'imposer à un logiciel libre ferait de vous un con.
+> En parlant de bugs, je ne suis ni obligé de corriger quoi que ce soit ni d'ajouter des fonctionnalités pour vous. Penser pouvoir l'imposer à un logiciel libre ferait de vous un con.
 
 > Si vous ajoutez une nouvelle fonctionnalité ou corrigez un bug, ce serait bien que vous contribuiez au projet. Vous n'avez pas à le faire, mais ne pas le faire ferait de vous un con. Le dépôt/site d'où vous avez obtenu ce logiciel doit contenir un moyen pour vous de me contacter. Contribuer à l'open source fait de vous quelqu'un de formidable !
 
-> Si vous utilisez ce logiciel vous n'avez pas à me mentionner, mais se serait gentil.
+> Si vous utilisez ce logiciel vous n'avez pas à me mentionner, mais ce serait gentil.
 
 Ne soyez pas con.
 Profitez de votre logiciel libre !
